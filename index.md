@@ -1,4 +1,4 @@
-# <h1> test <h3> Image
+# <h1> test <h3> Image <h6>
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <h3>code_check
